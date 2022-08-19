@@ -1,0 +1,1 @@
+Este projeto utiliza HTML, CSS e JavaScript para criar uma pagina de captura de dados que pode ter multiplos propositos.
